@@ -5,7 +5,7 @@ the original website and how I put together things on wordpress.
 
 overview:
 
--[Overview](overview)
+[Overview](overview)
 
 
 how to navigate wiki:
