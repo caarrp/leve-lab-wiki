@@ -11,5 +11,20 @@ overview:
 how to navigate wiki:
 
 I am going to break this up into 2 ways of looking at the pages, by section 
-type and by 
+type and by page. 
+
+## Section Type
+
+
+
+
+## Page 
+
+[Main Page](main-page)
+[People Page](people-page)
+[Projects Page](projects-page)
+[Publications Page](publications-page)
+[Get Involved Page](get-involved-page)
+[News Page](news-page)
+
 
