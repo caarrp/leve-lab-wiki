@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Leve Website Wiki</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Leve Website Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Main Page</title>
+      <link>http://localhost:1313/pages/main-page/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/main-page/</guid>
+      <description>Main Page </description>
+    </item>
+    <item>
+      <title>News Page</title>
+      <link>http://localhost:1313/pages/news-page/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/news-page/</guid>
+      <description>News Page </description>
+    </item>
+    <item>
+      <title>People Page</title>
+      <link>http://localhost:1313/pages/people-page/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/people-page/</guid>
+      <description>People Page </description>
+    </item>
+    <item>
+      <title>Projects Page</title>
+      <link>http://localhost:1313/pages/projects-page/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/projects-page/</guid>
+      <description>Projects Page </description>
+    </item>
+    <item>
+      <title>Publications Page</title>
+      <link>http://localhost:1313/pages/publications-page/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/publications-page/</guid>
+      <description>Publications Page </description>
+    </item>
+    <item>
+      <title>Staff Page</title>
+      <link>http://localhost:1313/pages/staff-page/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/staff-page/</guid>
+      <description>Staff Page </description>
+    </item>
+    <item>
+      <title>Students Page</title>
+      <link>http://localhost:1313/pages/students-page/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/students-page/</guid>
+      <description>Students Page </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pages/researchers-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/researchers-page/</guid>
+      <description>Researchers Page </description>
+    </item>
+  </channel>
+</rss>
