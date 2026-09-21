@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pages/</loc>
-    <lastmod>2026-08-06T15:13:45-07:00</lastmod>
+    <loc>http://localhost:1313/sections/projects-title-section/</loc>
+    <lastmod>2026-08-11T15:49:29-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/</loc>
+    <lastmod>2026-08-11T15:49:29-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-08-11T15:49:29-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/people-title-section/</loc>
+    <lastmod>2026-08-11T15:49:21-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/title-page/</loc>
+    <lastmod>2026-08-11T15:40:22-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/main-director-section/</loc>
+    <lastmod>2026-08-11T14:59:04-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/main-about-us-section/</loc>
+    <lastmod>2026-08-11T14:58:30-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/main-social-media-section/</loc>
+    <lastmod>2026-08-11T14:56:56-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/main-news-section/</loc>
+    <lastmod>2026-08-11T14:56:41-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/main-psi-section/</loc>
+    <lastmod>2026-08-11T14:56:29-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sections/main-title-section/</loc>
+    <lastmod>2026-08-11T14:33:46-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/</loc>
     <lastmod>2026-08-06T15:13:45-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/main-page/</loc>

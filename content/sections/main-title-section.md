@@ -8,7 +8,7 @@ The main title page has styling like the other [title sections](/sections/title-
 
 It uses a fullwidth divi section that contains a fullwidth header element. 
 
-# Fullwidth Section
+### Fullwidth Section
 
 The fullwidth section uses 'rennie-kendrick-uo-science-lab.jpg' as a background image. 
 
@@ -21,7 +21,7 @@ it looks like this:
 This was a bit finicky, but essentially it is setting the image to fit 75% of the viewport, and 
 the second line is centering the image. 
 
-# Text Header Element 
+### Text Header Element 
 
 The fullwidth header element has space for 2 headers, 2 buttons, and text. This text is in the text
 box, since that was an easier way to customize. 

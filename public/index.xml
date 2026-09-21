@@ -6,14 +6,77 @@
     <description>Recent content in welcome on Leve Website Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:49:29 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects Title Section</title>
+      <link>http://localhost:1313/sections/projects-title-section/</link>
+      <pubDate>Tue, 11 Aug 2026 15:49:29 -0700</pubDate>
+      <guid>http://localhost:1313/sections/projects-title-section/</guid>
+      <description>The main title page has styling like the other title sections.&#xA;It uses a fullwidth divi section that contains a fullwidth header element.&#xA;Fullwidth Section The fullwidth section uses &amp;lsquo;rennie-kendrick-uo-science-lab.jpg&amp;rsquo; as a background image.&#xA;Because of the cosmic-wp-v2 theme, there is custom CSS to pull the image across the page. it looks like this:&#xA;width: 82.5vw; margin-left: calc(-32vw + 50%); This is setting the image to fit 82.5% of the viewport, and the second line is centering the image.</description>
+    </item>
+    <item>
+      <title>People Title Section</title>
+      <link>http://localhost:1313/sections/people-title-section/</link>
+      <pubDate>Tue, 11 Aug 2026 15:49:21 -0700</pubDate>
+      <guid>http://localhost:1313/sections/people-title-section/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Title Section</title>
+      <link>http://localhost:1313/sections/title-section/</link>
+      <pubDate>Tue, 11 Aug 2026 15:40:22 -0700</pubDate>
+      <guid>http://localhost:1313/sections/title-section/</guid>
+      <description>The &amp;ldquo;title section&amp;rdquo; is the section with an image and white text that is at the top of some of the web pages, like the main title section, people title section, projects title section, and get involved title section.&#xA;The Spacing in the Header Elements are a little different for each of the pages. In order to get full width sections, under the advanced tab, they have custom CSS on the &amp;lsquo;Main Element&amp;rsquo;, affecting the width, and</description>
+    </item>
+    <item>
+      <title>Main Director Section</title>
+      <link>http://localhost:1313/sections/main-director-section/</link>
+      <pubDate>Tue, 11 Aug 2026 14:59:04 -0700</pubDate>
+      <guid>http://localhost:1313/sections/main-director-section/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Main About Us Section</title>
+      <link>http://localhost:1313/sections/main-about-us-section/</link>
+      <pubDate>Tue, 11 Aug 2026 14:58:30 -0700</pubDate>
+      <guid>http://localhost:1313/sections/main-about-us-section/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Main Social Media Section</title>
+      <link>http://localhost:1313/sections/main-social-media-section/</link>
+      <pubDate>Tue, 11 Aug 2026 14:56:56 -0700</pubDate>
+      <guid>http://localhost:1313/sections/main-social-media-section/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Main News Section</title>
+      <link>http://localhost:1313/sections/main-news-section/</link>
+      <pubDate>Tue, 11 Aug 2026 14:56:41 -0700</pubDate>
+      <guid>http://localhost:1313/sections/main-news-section/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Main Psi Section</title>
+      <link>http://localhost:1313/sections/main-psi-section/</link>
+      <pubDate>Tue, 11 Aug 2026 14:56:29 -0700</pubDate>
+      <guid>http://localhost:1313/sections/main-psi-section/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Main Title Section</title>
+      <link>http://localhost:1313/sections/main-title-section/</link>
+      <pubDate>Tue, 11 Aug 2026 14:33:46 -0700</pubDate>
+      <guid>http://localhost:1313/sections/main-title-section/</guid>
+      <description>The main title page has styling like the other title sections.&#xA;It uses a fullwidth divi section that contains a fullwidth header element.&#xA;Fullwidth Section The fullwidth section uses &amp;lsquo;rennie-kendrick-uo-science-lab.jpg&amp;rsquo; as a background image.&#xA;Because of the cosmic-wp-v2 theme, there is custom CSS to pull the image across the page. it looks like this:&#xA;width: 75vw; margin-left: calc(-35vw + 50%); This was a bit finicky, but essentially it is setting the image to fit 75% of the viewport, and the second line is centering the image.</description>
+    </item>
     <item>
       <title>Main Page</title>
       <link>http://localhost:1313/pages/main-page/</link>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pages/main-page/</guid>
-      <description>Main Page </description>
+      <description>The main page is the first page you see. I like to think of it as 6 sections.&#xA;Main Title Section About Us Section Director Section News Section PSI Section Social Media Section</description>
     </item>
     <item>
       <title>News Page</title>
@@ -34,14 +97,14 @@
       <link>http://localhost:1313/pages/projects-page/</link>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pages/projects-page/</guid>
-      <description>Projects Page </description>
+      <description>Projects Page The projects page can be grouped into a</description>
     </item>
     <item>
       <title>Publications Page</title>
       <link>http://localhost:1313/pages/publications-page/</link>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pages/publications-page/</guid>
-      <description>Publications Page </description>
+      <description>Publications Page Publications page can be broken up into x sections. The top section:&#xA;&amp;ldquo;Publications&amp;rdquo; in &amp;ldquo;united serif regular&amp;rdquo;</description>
     </item>
     <item>
       <title>Staff Page</title>

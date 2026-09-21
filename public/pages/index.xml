@@ -13,7 +13,7 @@
       <link>http://localhost:1313/pages/main-page/</link>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pages/main-page/</guid>
-      <description>Main Page </description>
+      <description>The main page is the first page you see. I like to think of it as 6 sections.&#xA;Main Title Section About Us Section Director Section News Section PSI Section Social Media Section</description>
     </item>
     <item>
       <title>News Page</title>
@@ -34,14 +34,14 @@
       <link>http://localhost:1313/pages/projects-page/</link>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pages/projects-page/</guid>
-      <description>Projects Page </description>
+      <description>Projects Page The projects page can be grouped into a</description>
     </item>
     <item>
       <title>Publications Page</title>
       <link>http://localhost:1313/pages/publications-page/</link>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pages/publications-page/</guid>
-      <description>Publications Page </description>
+      <description>Publications Page Publications page can be broken up into x sections. The top section:&#xA;&amp;ldquo;Publications&amp;rdquo; in &amp;ldquo;united serif regular&amp;rdquo;</description>
     </item>
     <item>
       <title>Staff Page</title>
