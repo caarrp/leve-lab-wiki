@@ -1,2 +1,2 @@
-[Home](home.md)
+[Index](index.md)
 
